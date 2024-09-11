@@ -1,21 +1,15 @@
-# ixd-5106-2024
-Introduction to Design for Interaction
+# ixd-5106-2024 - Introduction to Design for Interaction
 
-## Course Outline
+Students will be introduced to design tools, processes, and best practices as they apply to web developers, contentstrategists, user experience designers, and creative technologists. The skills introduced in this course will be incorporatedand reinforced in subsequent courses as part of the practice relevant to each discipline
 
-## Module 1 - Introduction to Interaction Design 101
-- Define and demonstrate foundational theory and application understanding of the Laws of Interaction Design.
+> **Note:** This course is designed to give students a rapid overview of design principles, tools and technologies as they apply for webdevelopers, content strategists, user experience designers and creative technologists to create user-centric experiences
 
-## Module 2 - Understanding Fundamentals of Interaction Design
-- Compare and contrast different interaction design patterns and their effectiveness to match outcomes to users' goals, frustrations, and priorities.
+Here is a link to [Laws of UX](https://lawsofux.com)
 
-## Module 3 - User-Centered Design and Prototyping
-- Apply form, function, and design interactions using technology and/or tools through product ideation, creation, and prototyping.
+![IxD](https://res.cloudinary.com/dqtokk1cn/image/upload/v1726021057/Interaction-Design-_IxD_-11102022_wrocxi.jpg)
 
-## Module 4 - Designing for Multi-touch Interactions
-- Demonstrate tools and technology used in shared and collaborative documentation and/or creation.
 
-## Module 5 - UI Design and Contemporary Trends
-- Apply form, function, and design interactions using technology and/or tools through product ideation, creation, and prototyping.
-- Define and demonstrate foundational theory and application understanding of the Laws of Interaction Design.
-- Compare and contrast different interaction design patterns and their effectiveness to match outcomes to users' goals, frustrations, and priorities.
+```html
+<!-- IxD doesn't require any code -->
+
+
