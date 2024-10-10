@@ -72,3 +72,25 @@ https://www.youtube.com/watch?v=k74IrUNaJVk
 ### Button Tutorial- by Me
 
 https://humberital.sharepoint.com/sites/InteractionDesignStudio-IXD5106/_layouts/15/stream.aspx?id=%2Fsites%2FInteractionDesignStudio%2DIXD5106%2FShared%20Documents%2FFall%202024%2C%2FLecture%20Content%2FFigma%20Button%20Hover%20Tutorial%2Emov&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E18c51b9c%2Db2c1%2D4f4f%2D9c8c%2Dab246719c68d
+
+## Week 6
+
+### What is a style guide and how to create one?
+
+https://www.youtube.com/watch?v=UsPKDV7ozfI
+
+### How To Create Mood Board - Design Process for App UI Design Projects
+
+https://www.youtube.com/watch?v=UsPKDV7ozfI
+
+### A Great Starting Point: How to Make a Moodboard for UX/UI Design
+
+https://www.eleken.co/blog-posts/a-great-starting-point-how-to-make-a-moodboard-for-ux-ui-design
+
+### Creating a UX Design Style Guide
+
+https://www.uxmatters.com/mt/archives/2019/11/creating-a-ux-design-style-guide.php
+
+### Creating a UX design style guide for your team
+
+https://uxplanet.org/creating-a-ux-design-style-guide-for-your-team-e756210865a4
